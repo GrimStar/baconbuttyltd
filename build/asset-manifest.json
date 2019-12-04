@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4642c17.chunk.css",
+    "main.js": "/static/js/main.c4dc56f4.chunk.js",
+    "main.js.map": "/static/js/main.c4dc56f4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7f8c6d3d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7f8c6d3d.js.map",
+    "static/css/2.cb28776c.chunk.css": "/static/css/2.cb28776c.chunk.css",
+    "static/js/2.ea5e15a8.chunk.js": "/static/js/2.ea5e15a8.chunk.js",
+    "static/js/2.ea5e15a8.chunk.js.map": "/static/js/2.ea5e15a8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1ce9a8b6a20af5b0db0e56c4bd443533.js": "/precache-manifest.1ce9a8b6a20af5b0db0e56c4bd443533.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cb28776c.chunk.css.map": "/static/css/2.cb28776c.chunk.css.map",
+    "static/css/main.e4642c17.chunk.css.map": "/static/css/main.e4642c17.chunk.css.map",
+    "static/media/bacon-co-logo-black.png": "/static/media/bacon-co-logo-black.de5df743.png",
+    "static/media/App.css": "/static/media/img_green_iron.b547a6a4.jpg",
+    "static/media/img_store-front.jpg": "/static/media/img_store-front.2cf06692.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f8c6d3d.js",
+    "static/css/2.cb28776c.chunk.css",
+    "static/js/2.ea5e15a8.chunk.js",
+    "static/css/main.e4642c17.chunk.css",
+    "static/js/main.c4dc56f4.chunk.js"
+  ]
+}
